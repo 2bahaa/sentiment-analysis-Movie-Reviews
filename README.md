@@ -1,1 +1,2 @@
-# sentiment-analysis-Movie-Reviews
+# Sentiment-analysis-Movie-Reviews
+this sentiment analysis model for movie reviews employs a Recurrent Neural Network (RNN) with an embedding layer and Long Short-Term Memory (LSTM) units, achieving an impressive accuracy of 98.3%. The embedding layer maps words into dense vectors, capturing semantic relationships, while the LSTM units handle sequential data, retaining long-term dependencies to understand context and sentiment. This architecture, combined with a fully connected layer and softmax output, allows the model to deliver highly accurate sentiment classifications, making it a powerful tool for analyzing movie reviews.
